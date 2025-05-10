@@ -22,10 +22,6 @@ Soy un apasionado desarrollador de software con experiencia en **Java, PHP, Lara
 - 🛒 [E-commerce-Tienda-de-Tecnologia](https://github.com/Erick21Garcia/E-commerce-Tienda-de-Tecnologia) – Desarrollo de un E-commerce con PHP: Implementación de Plataforma de Compras y Administración.
 - 🏥 [Sistema-Web-Bienestar-Universitario-](https://github.com/Erick21Garcia/Sistema-Web-Bienestar-Universitario-) – Sistema web de bienestar universitario para la gestión documental del área de medicina integrando servicios AWS.
 
-## 📈 Estadísticas
-
-![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erickgarcia&show_icons=true&theme=dracula)
-
 ## 📫 Contacto
 
 - 🌐 [Mi portafolio](https://erick21garcia.github.io)
