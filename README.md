@@ -21,7 +21,7 @@ Soy un apasionado desarrollador de software con experiencia en **Java, PHP, Lara
 
 - 🏫 [Sistema-de-Gestion-Academica](https://github.com/Erick21Garcia/Sistema-de-Gestion-Academica) – Este proyecto es una aplicación web en Laravel para gestionar información académica de estudiantes, materias y calificaciones.
 - 🔗 [ReservasEC](https://github.com/Erick21Garcia/ReservasEC) – Aplicación fullstack de gestión de reservas construida con arquitectura de microservicios, utilizando Next.js, Node.js, Express y MongoDB.
-- 🏥 [Sistema-Web-Bienestar-Universitario-](https://github.com/Erick21Garcia/Sistema-Web-Bienestar-Universitario-) – Sistema web de bienestar universitario para la gestión documental del área de medicina integrando servicios AWS.
+- 🏥 [Sistema-Web-Bienestar-Universitario](https://github.com/Erick21Garcia/Sistema-Web-Bienestar-Universitario-) – Sistema web de bienestar universitario para la gestión documental del área de medicina integrando servicios AWS.
 
 ## 📫 Contacto
 
